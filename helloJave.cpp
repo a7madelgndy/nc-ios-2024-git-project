@@ -3,6 +3,6 @@ class helloWorld {
     public :
     void hello(){
         cout<<"Hello world";
-        cout
+        court<<"hilll"
     }
 }
